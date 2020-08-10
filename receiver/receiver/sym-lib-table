@@ -1,5 +1,5 @@
 (sym_lib_table
-  (lib (name esp32)(type Legacy)(uri D:/schematic/esp32.lib)(options "")(descr ""))
-  (lib (name nrf24l01)(type Legacy)(uri D:/schematic/nrf24l01.lib)(options "")(descr ""))
-  (lib (name pinconnectors)(type Legacy)(uri D:/schematic/pinconnectors.lib)(options "")(descr ""))
+  (lib (name "esp32")(type "Legacy")(uri "D:/schematic/esp32.lib")(options "")(descr ""))
+  (lib (name "nrf24l01")(type "Legacy")(uri "D:/schematic/nrf24l01.lib")(options "")(descr ""))
+  (lib (name "pinconnectors")(type "Legacy")(uri "D:/schematic/pinconnectors.lib")(options "")(descr ""))
 )

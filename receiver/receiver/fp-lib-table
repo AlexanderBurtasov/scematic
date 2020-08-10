@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "schematic")(type "KiCad")(uri "D:/schematic.pretty")(options "")(descr ""))
+  (lib (name "common")(type "KiCad")(uri "D:/schematic/common.pretty")(options "")(descr ""))
+)
